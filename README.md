@@ -1,3 +1,3 @@
 # hello-World
-trying to work with github
-<em>Возожно что-то и получтся</em>
+trying to work with github <br>
+<em>Возожно что-то и получится</em>
